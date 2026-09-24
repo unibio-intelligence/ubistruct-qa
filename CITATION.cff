@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use UbiStruct-QA, please cite this software and the CASP17 methods abstract when it becomes available."
+title: "UbiStruct-QA: target-adaptive model quality assessment for heterogeneous macromolecular assemblies"
+repository-code: "https://github.com/unibio-intelligence/ubistruct-qa"
+type: software
+version: 0.1.0
+authors:
+  - family-names: Kohar
+    given-names: Vivek
+    affiliation: "UniBio Intelligence, Inc."
+    email: contact@unibiointelligence.com
+license: Apache-2.0
+keywords:
+  - CASP17
+  - model quality assessment
+  - protein complexes
+  - peptide assemblies
+  - protein cages
